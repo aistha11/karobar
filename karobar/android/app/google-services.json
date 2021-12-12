@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47855163513",
+    "project_id": "ai-karobar",
+    "storage_bucket": "ai-karobar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47855163513:android:968515ae920d4bd7de1ca8",
+        "android_client_info": {
+          "package_name": "com.aistha11.karobar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47855163513-1qckmo2fvoudcoqe7omo8p5kpsb7tujf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistha11.karobar",
+            "certificate_hash": "955c7cfb0aa65664ac7071cb2cfb8d024be6cf01"
+          }
+        },
+        {
+          "client_id": "47855163513-peter3j41tmdanjihsdh8uf7fu6eln4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Ryon6IL2NpmEFQj7Bu526d1EIoxJIOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47855163513-peter3j41tmdanjihsdh8uf7fu6eln4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

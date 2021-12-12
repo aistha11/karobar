@@ -9,7 +9,8 @@ const config = {
   title: 'Karobar',
   tagline: 'Karobar for transaction',
   url: 'https://aistha11.github.io',
-  baseUrl: '/',
+  baseUrl: '/', // For developement
+  // baseUrl: '/karobar/', // For production or deploy to github pages
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
